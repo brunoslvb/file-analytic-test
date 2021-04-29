@@ -1,3 +1,6 @@
+Entrega:
+    Criar uma branch test/seunome e subir versão
+    
 Descrição:
 
     Criar um sistema de análise de dados de venda que irá importar lotes de arquivos e produzir
