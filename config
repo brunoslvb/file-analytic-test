@@ -1,0 +1,6 @@
+folder.base=ARQUIVOS
+folder.in=in
+folder.out=out
+folder.processing=in/processing
+folder.backup=bkp
+folder.log=logs
